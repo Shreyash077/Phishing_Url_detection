@@ -1,3 +1,5 @@
+Flask
+gunicorn
 alabaster==1.0.0
 anyio==4.9.0
 argon2-cffi==23.1.0
@@ -211,4 +213,5 @@ widgetsnbextension==4.0.14
 wikipedia==1.4.0
 wordcloud==1.9.4
 xyzservices==2025.1.0
+
 
